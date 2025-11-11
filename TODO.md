@@ -1,0 +1,6 @@
+- [x] Implement make_set(m) function
+- [x] Implement add(s, key) function
+- [x] Implement contains(s, key) function
+- [x] Implement remove(s, key) function
+- [x] Implement size(s) function
+- [x] Run tests with `python -m pytest -q` to verify implementation
